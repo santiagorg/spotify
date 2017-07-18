@@ -1,6 +1,5 @@
-
 (function($){
-	var $btn = $('#request');
+	var $btn = $('#button');
 	var $artist = $('#artist');
 
 	$btn.on('click', function(){
