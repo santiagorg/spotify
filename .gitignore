@@ -5,3 +5,4 @@ njtest/authorization_code/app.js
 njtest/package.json
 njtest/package-lock.json
 njtest/server.js
+njtest/authorization_code/public
