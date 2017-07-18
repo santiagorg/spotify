@@ -1,0 +1,33 @@
+header{
+    margin: 10px 0;
+    height: 100px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    color: white;
+}
+.left,.right{
+    margin: 0 40px;
+    padding: 30px;
+    height: 600px;
+    background-color: #CCC;
+    border-radius: 10px;
+}
+
+h3{
+    margin: 0 15px;
+}
+input{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    min-width: 200px;
+    display: block;
+}
+#button{
+    margin: 10px;
+    background-color: #456;
+    border-radius: 3px;
+    color:white;
+    height: 50px;
+    width: 120px;
+}
